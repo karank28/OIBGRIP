@@ -6,10 +6,8 @@ Web Development and Designing
 
 Level 1 :- 
 
-Task 1: Landing Page
+Task 1: Landing Page : https://karank28.github.io/OIBSIP-Level-1-Task-1/index.html#
 
-Task 2: Portfolio
-
-Task 3: Temperature Converter
+Languages: HTML, CSS, Javascript
 
 LinkedIn: https://www.linkedin.com/in/karan-mistry-4222951a5/
