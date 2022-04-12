@@ -1,4 +1,4 @@
-# OIBSIP 
+# OIBSIP-Level-1-Task-1
 
 # Intern at Oasis Infobyte #AprilBatch
 
@@ -6,7 +6,7 @@ Web Development and Designing
 
 Level 1 :- 
 
-Task 1: Landing Page : https://karank28.github.io/OIBSIP-Level-1-Task-1/index.html#
+Task 1: Landing Page : https://karank28.github.io/OIBSIP-Level-1-Task-1/
 
 Languages: HTML, CSS, Javascript
 
